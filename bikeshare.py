@@ -2,10 +2,13 @@ import time
 import pandas as pd
 import numpy as np
 
+
+#Locate bikeshare city data
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# Overview relevant data: city, month, & day
 city_names = ['chicago', 'new york city', 'washington']
 month_names = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
 day_names = ['all', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
@@ -226,6 +229,6 @@ def main():
         if restart.lower() != 'yes':
             break
 
+#Execute Program 
 if __name__ == "__main__":
 	main()
-
