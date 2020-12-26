@@ -14,4 +14,7 @@ chicago.csv, new_york_city.csv, washington.csv
 Thank to Udacity for the course & Ashoarma for the Git training.
 
 ### Location project
-Eindhoven, The Netherlands 
+Eindhoven, The Netherlands
+
+## Difficulty Project
+8/10
