@@ -11,4 +11,7 @@ Analyzing bikeshare data from 3 major cities in US.
 chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-Thank to Udacity for the course & Ashoarma for the Git training. 
+Thank to Udacity for the course & Ashoarma for the Git training.
+
+### Location project
+Eindhoven, The Netherlands 
